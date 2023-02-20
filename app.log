@@ -1,0 +1,4 @@
+2023-02-20T15:54:38.931Z [logger] info: A GET request made on "/api/v1/companies" from IP ::1
+2023-02-20T15:55:01.193Z [logger] info: A GET request made on "/api/v1/orders" from IP ::1
+2023-02-20T15:56:26.512Z [logger] info: A GET request made on "/api/v1/orders" from IP ::1
+2023-02-20T15:58:04.293Z [logger] info: A GET request made on "/api/v1/company/AAPL/stats" from IP ::1
